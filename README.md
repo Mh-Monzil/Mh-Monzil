@@ -15,19 +15,16 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 
 ### Connect With Me
 
-<a href="mailto:tahfeezmizan@gmail.com">
+<a href="mailto:monzil246@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://tahfeezmizan.github.io//">
+<a href="https://monzil-portfolio.vercel.app/">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in//tahfeezmizan/">
+ <a href="https://www.linkedin.com/in/mhmonzil/">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-<a href="https://twitter.com/tahfeezmizan">
-       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
- <a href="https://www.facebook.com/tahfeezmizan/">
+ <a href="https://www.facebook.com/monzil.1012/">
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
  
