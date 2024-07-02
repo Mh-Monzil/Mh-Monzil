@@ -1,27 +1,44 @@
 ![MasterHead](https://i.ibb.co/W2HtZw8/banner-for-github.png)
-<h1 align="center">Hi 👋, I'm Mohiuddin Monzil</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-monzil&label=Profile%20views&color=0e75b6&style=flat" alt="mh-monzil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mh-monzil" alt="mh-monzil" /></a> </p>
+# Hi, I'm **_Mohiuddin Monzil_**
 
-- 🌱 I’m currently learning **Next.js**
+#### 👨‍💻 I’m a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with Coding. I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development ✌️
 
-- 💬 Ask me about **MERN STACK**
+Currently, **I'm open to work and employment opportunities near Dhaka or Remotely. [Download Resume](https://drive.google.com/file/d/1k3GHSUrIgrigw6lOwa7QHofJqc3_NH94/view?usp=sharing)
 
-- 📫 How to reach me **monzil246@gmail.com**
+- ❤️ I love the intersection of code and design
+- 🌱 I’m currently learning many things Such as JavaScript and React Advance,
+- ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way of course)
+- 💬 I like to talk about interesting stuff, message me! 😉
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IMhs6ubIVXaHyxJoIDs7_ZCrtD0HZAEG/view](https://drive.google.com/file/d/1IMhs6ubIVXaHyxJoIDs7_ZCrtD0HZAEG/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mhmonzil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mhmonzil/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/monzil246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/monzil246/" height="30" width="40" /></a>
-</p>
+### Connect With Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="mailto:tahfeezmizan@gmail.com">
+    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://tahfeezmizan.github.io//">
+   <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in//tahfeezmizan/">
+       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+<a href="https://twitter.com/tahfeezmizan">
+       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+ <a href="https://www.facebook.com/tahfeezmizan/">
+       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+ 
+
+<br  />
+
+
+### Technologies, Frameworks, Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,C,bootstrap,tailwind,react,nextjs,MongoDB,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify,stripe,npm&perline=14)]
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
