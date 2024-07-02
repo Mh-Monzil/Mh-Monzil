@@ -37,7 +37,7 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 
 ### Technologies, Frameworks, Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,C,bootstrap,tailwind,react,nextjs,MongoDB,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify,stripe,npm&perline=14)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,bootstrap,tailwind,react,nextjs,Mongodb,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify,stripe,npm&perline=14)]
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
