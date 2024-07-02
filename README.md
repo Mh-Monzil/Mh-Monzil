@@ -41,7 +41,6 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
