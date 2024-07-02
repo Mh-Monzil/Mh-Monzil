@@ -5,7 +5,7 @@
 
 #### 👨‍💻 I’m a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with Coding. I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development ✌️
 
-Currently, **I'm open to work and employment opportunities near Dhaka or Remotely. [Download Resume](https://drive.google.com/file/d/1k3GHSUrIgrigw6lOwa7QHofJqc3_NH94/view?usp=sharing)
+Currently, **I'm open to work and employment opportunities near Dhaka or Remotely. [Download Resume](https://drive.google.com/file/d/16iCS6It0kgKp21xkt-s08PRtby_a4IOX/view)
 
 - ❤️ I love the intersection of code and design
 - 🌱 I’m currently learning many things Such as JavaScript and React Advance,
