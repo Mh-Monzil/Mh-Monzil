@@ -3,7 +3,7 @@
 
 # Hi, I'm **_Mohiuddin Monzil_**
 
-#### 👨‍💻 I’m a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with Coding. I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development✌️
+#### 👨‍💻 I’m a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with Coding. I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development ✌️
 
 Currently, **I'm open to work and employment opportunities near Dhaka or Remotely. [Download Resume](https://drive.google.com/file/d/1N0oS08_rVAOeWo79NeiC5AsDDDYd6pRA/view)
 
